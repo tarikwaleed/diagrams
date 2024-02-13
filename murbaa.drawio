@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T13:01:11.192Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="pjab6X7Ny03IBpmAP77U" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T13:07:32.931Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="TN-bsP30iCi-iEfst7Ou" version="23.1.1" type="github">
   <diagram name="Page-1" id="MIC6NKnUEhD1RVHsJUMT">
     <mxGraphModel dx="1050" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,16 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LQRrHdtZVoqb6zluySP0-1" value="&lt;div&gt;views/my_land/index.php&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="160" height="60" as="geometry" />
+          <mxGeometry x="50" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HXFCHAM3oiWNF1jvQpLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LQRrHdtZVoqb6zluySP0-2" target="LQRrHdtZVoqb6zluySP0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LQRrHdtZVoqb6zluySP0-2" value="&lt;div&gt;dash.js:get_api_land()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="240" width="160" height="60" as="geometry" />
+        <mxCell id="LQRrHdtZVoqb6zluySP0-2" value="&lt;div&gt;views/my_land/JS/dash.js&lt;br&gt;dash.js:get_api_land()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LQRrHdtZVoqb6zluySP0-3" value="&lt;div&gt;dash.js:get_api_land()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="240" width="160" height="60" as="geometry" />
+        <mxCell id="LQRrHdtZVoqb6zluySP0-3" value="&lt;div&gt;views/my_land/JS/dash.js&lt;br&gt;dash.js:get_api_land()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="240" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
