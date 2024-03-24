@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T01:24:28.039Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="u6a1xv2ZCkAd6f1qtOyv" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T01:25:02.945Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="AwudQbY6vt8w17wrEYoR" version="24.1.0" type="github">
   <diagram name="Page-1" id="C3Hmc5k3WOy9ybObfjKQ">
     <mxGraphModel dx="1235" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="83oj74jrPgIGotp4Sf1E-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="83oj74jrPgIGotp4Sf1E-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="83oj74jrPgIGotp4Sf1E-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="83oj74jrPgIGotp4Sf1E-8" value="This service will be responsible for automating the manual process of generating Noon coupons without any human intervention, exporting the list of coupons to be feeded into our database" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="75" y="148" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="83oj74jrPgIGotp4Sf1E-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="83oj74jrPgIGotp4Sf1E-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="83oj74jrPgIGotp4Sf1E-10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="83oj74jrPgIGotp4Sf1E-17" value="Coupon Feeding" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="540" y="131" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="83oj74jrPgIGotp4Sf1E-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="83oj74jrPgIGotp4Sf1E-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="350" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="83oj74jrPgIGotp4Sf1E-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-128.png" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="83oj74jrPgIGotp4Sf1E-28" value="Back-end web API to manage the business logic, data access, payment gateway and user management" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="83oj74jrPgIGotp4Sf1E-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="83oj74jrPgIGotp4Sf1E-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="350" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="83oj74jrPgIGotp4Sf1E-30" value="Front-end" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
