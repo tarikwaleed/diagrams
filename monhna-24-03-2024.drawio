@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T01:02:19.326Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="XSjNRygNOcg5KLZb6bfc" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T01:12:21.906Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="iiNbOkoefSJbyH8HepIz" version="24.1.0" type="github">
   <diagram name="Page-1" id="C3Hmc5k3WOy9ybObfjKQ">
-    <mxGraphModel dx="1050" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="83oj74jrPgIGotp4Sf1E-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="83oj74jrPgIGotp4Sf1E-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="86.7" y="270" width="36.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="83oj74jrPgIGotp4Sf1E-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-128.png;direction=south;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="83oj74jrPgIGotp4Sf1E-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.automation;" vertex="1" parent="1">
+          <mxGeometry x="190" y="268" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="83oj74jrPgIGotp4Sf1E-6" value="Coupon Generation and Export" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="83oj74jrPgIGotp4Sf1E-8" value="This service will be responsible for automating the manual process of generating Noon coupons without any human intervention, exporting the list of coupons to be feeded into our database" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="75" y="148" width="270" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
