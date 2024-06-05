@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T15:21:14.976Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="WI2_hK-5t1CQiQtlI9P0" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T16:07:25.012Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zj9aeTzg_AqUsRJF7qdW" version="24.4.6" type="github">
   <diagram name="Page-1" id="ZYTXzmpaoZEqNaZ6OKDH">
     <mxGraphModel dx="7800" dy="2925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="420" y="540" width="302.4" height="540" as="geometry" />
         </mxCell>
         <mxCell id="b7sSyu238cDtJSHryWbN-4" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;our server&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=13;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="329.99999999999994" width="770" height="240" as="geometry" />
+          <mxGeometry x="220" y="319.99999999999994" width="770" height="240" as="geometry" />
         </mxCell>
         <mxCell id="b7sSyu238cDtJSHryWbN-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/online-shop-7/128/shop-store-market-2-128.png" vertex="1" parent="1">
           <mxGeometry x="1720" y="1260" width="468" height="468" as="geometry" />
