@@ -58,6 +58,15 @@
             <mxPoint x="650" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lt6rpjhU2XfIqA4amkJT-19" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;تكون هذه الاداة مختصه في سحب البيانات من المواقع باستخدام تقنيات ال ويب سكرابنج&lt;br&gt;وتقوم بحفظها في قاعدة البيانات عن طريق ارسال&amp;nbsp;&lt;br&gt;REST Requests to the API&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-241" y="450" width="440" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6rpjhU2XfIqA4amkJT-21" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;الادوات المستخدمة في تطوير هذه الاداة&amp;nbsp;&lt;br&gt;python,django,selenium, beautiful soup,scrappy,requests&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-241" y="740" width="440" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lt6rpjhU2XfIqA4amkJT-22" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;API provides CRUD endpoints to save data to the database&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="310" width="440" height="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
