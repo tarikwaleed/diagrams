@@ -100,7 +100,7 @@
             <mxRectangle width="30" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="phase_name char(50)&#xa;facebook_campaign_id char(50) NOT NULL&#xa;cost_cap integer&#xa;facebook_target char(50)&#xa;facebook_target_value float&#xa;facebook_max_active_ads int&#xa;&#xa;&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="phase_name char(50)&#xa;facebook_campaign_id char(50) NOT NULL&#xa;cost_cap integer&#xa;facebook_target char(50)&#xa;facebook_target_value float&#xa;facebook_max_active_ads int&#xa;&#xa;next_phase" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
           <mxGeometry x="30" width="220" height="160" as="geometry">
             <mxRectangle width="220" height="160" as="alternateBounds" />
           </mxGeometry>
